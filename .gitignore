@@ -1,0 +1,5 @@
+.idea
+*.py[cod]
+*.log
+venv
+.DS_Store
